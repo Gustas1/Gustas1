@@ -59,7 +59,7 @@
     <td colspan="3">My Projects:</td>
   </tr>
   <tr>
-    <td><p>An email page that looks like VSC</p></td>
+    <td><p>An email page that looks like VSC | <a href = "https://github.com/Gustas1/code-email-page">REPO</a></p></td>
     <td colspan="2"><p>Live Demo: <a href="https://gustas1.github.io/code-email-page/">https://gustas1.github.io/code-email-page/</p></a></td>
   </tr>
 </table>
