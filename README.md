@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustas1&label=Profile%20views&color=0e75b6&style=flat" alt="gustas1" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
+<h3 align="center">Languages:</h3>
+<p align="center"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <!--cplus -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -26,8 +26,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     </p>
 
-<h3 align="left">Frameworks:</h3>
-<p align="left">
+<h3 align="center">Frameworks:</h3>
+<p align="center">
     <!--react -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <!--sass -->
