@@ -36,14 +36,14 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3 align="center">Tools:</h3>
+<p align="center">
   <!--Blender -->
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <!--ps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact" alt="gustas1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact" alt="gustas1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustas1&show_icons=true&locale=en" alt="gustas1" /></p>
