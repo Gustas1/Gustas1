@@ -48,12 +48,11 @@
   <tr>
     <td>
         <!--langs -->
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact" alt="gustas1" /></p>
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="gustas1" /></p>
     </td>
     <td colspan="2">
       <!--commits -->
-      <p>&nbsp;<img src="https://raw.githubusercontent.com/Gustas1/github-stats-transparent/output/generated/overview.svg" alt="gustas1" style="max-width: 100%;"/><p>
-      
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustas1&show_icons=true&locale=en&bg_color=00000000&hide_border=true" alt="gustas1" /><p>
     </td>
   </tr>
   <tr>
