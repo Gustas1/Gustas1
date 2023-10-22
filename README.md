@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td><p>An email page that looks like VSC</p></td>
-    <td colspan="2"><a href="https://gustas1.github.io/code-email-page/"><p>https://gustas1.github.io/code-email-page/</p></a></td>
+    <td colspan="2"><p>Live Demo: <a href="https://gustas1.github.io/code-email-page/">https://gustas1.github.io/code-email-page/</p></a></td>
   </tr>
 </table>
 
