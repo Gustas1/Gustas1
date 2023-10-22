@@ -56,10 +56,11 @@
     </td>
   </tr>
   <tr>
-    <td>hi</td>
-    <td>a</td>
-    <td>sa34d</td>
-    <td>he32r</td>
+    <td colspan="3">My Projects:</td>
+  </tr>
+  <tr>
+    <td><p>An email page that looks like VSC</p></td>
+    <td colspan="2"><p>https://gustas1.github.io/code-email-page/</p></td>
   </tr>
 </table>
 
