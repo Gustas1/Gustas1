@@ -52,7 +52,8 @@
     </td>
     <td colspan="2">
       <!--commits -->
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustas1&show_icons=true&locale=en" alt="gustas1" /></p>
+      <p>&nbsp;<img src="https://raw.githubusercontent.com/Gustas1/github-stats-transparent/output/generated/overview.svg" alt="gustas1" style="max-width: 100%;"><p>
+      
     </td>
   </tr>
   <tr>
