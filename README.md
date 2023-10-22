@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 </p>
 
-<div align="center>
+<div align="center">
   <!--langs -->
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact" alt="gustas1" /></p>
   <!--commits -->
