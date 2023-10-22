@@ -45,16 +45,14 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+        <!--langs -->
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact" alt="gustas1" /></p>
+    </td>
+    <td>
+      <!--commits -->
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustas1&show_icons=true&locale=en" alt="gustas1" /></p>
+    </td>
+  </tr>
 </table>
-
-
-
-
-
-
-<div align="center">
-  <!--langs -->
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact" alt="gustas1" /></p>
-  <!--commits -->
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustas1&show_icons=true&locale=en" alt="gustas1" /></p>
-</div>
