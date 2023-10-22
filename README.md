@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustas</h1>
 <h3 align="center">I like frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustas1&label=Profile%20views&color=0e75b6&style=flat" alt="gustas1" /> </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustas1&label=Profile%20views&color=0e75b6&style=flat" alt="gustas1" /> </p>
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
@@ -44,6 +40,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact" alt="gustas1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustas1&show_icons=true&locale=en" alt="gustas1" /></p>
+<div align="center>
+  <!--langs -->
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustas1&show_icons=true&locale=en&layout=compact" alt="gustas1" /></p>
+  <!--commits -->
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustas1&show_icons=true&locale=en" alt="gustas1" /></p>
+</div>
